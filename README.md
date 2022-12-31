@@ -1,2 +1,3 @@
 # 6Companies30days
- A Challenge to make sure I start with my goals today and also not procrastinate !
+ In this repo I am uploading my solutions for **6Companies30Days** Challenge by **Arsh Goyal**
+ For more information about this challenge: https://youtu.be/QUnaBYKQkZU
